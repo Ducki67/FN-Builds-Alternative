@@ -3,14 +3,6 @@ An archive that has all downloadable seasons and builds with alternative links a
 
 **NOTE:** Please Always let me know in **Issues** If any build link don't work for you and i will set it to "Down" if its down!!
 
-### Example layout:
-
-# Season E.g.
-| Build | Download 1 | Download 2 | Downlaod 3 |
-|-------|------------|------------|------------|
-| E.g.  | Gofile | Google Drive | Public1 Public2 |
-
-
 
 # Season 0
 | Build | Download 1 | Download 2 | Downlaod 3 |
@@ -47,8 +39,9 @@ An archive that has all downloadable seasons and builds with alternative links a
 | 1.8.1 (Release-Live-CL-3729133) | [Rebootfn.org](https://builds.rebootfn.org/1.8.1.rar) |  [Archive.org](https://archive.org/download/fortnite-release-1.8.1-cl-3729133/%2B%2BFortnite%2BRelease-1.8.1-CL-3729133.rar) | [FNBUILDS](https://public.simplyblk.xyz/1.8.1.rar)|
 | 1.8.2 (Release-Live-CL-3741772) | [Rebootfn.org](https://builds.rebootfn.org/1.8.2.rar) | [Archive.org](https://archive.org/download/fortnite-release-1.8.2-cl-3741772/%2B%2BFortnite%2BRelease-1.8.2-CL-3741772.rar) | [FNBUILDS](https://public.simplyblk.xyz/1.8.2.rar) |
 | 1.9.0 (Release-Live-CL-3757339) | [Rebootfn.org](https://builds.rebootfn.org/1.9.rar) | N/A | [FNBUILDS](https://public.simplyblk.xyz/1.9.rar) |
-
-
+| 1.9.1 (Release-Cert-CL-3775276) | [Rebootfn.org](https://builds.rebootfn.org/1.9.1.rar) | N/A | [FNBUILDS](https://public.simplyblk.xyz/1.9.1.rar) |
+| 1.9.? Unkonw Build (Release-Cert-CL-3785438) | Lost | Lost | Lost |
+| 1.10.0 (Release-Cert-CL-3790078) | [Rebootfn.org](https://builds.rebootfn.org/1.10.rar) | N/A | [FNBUILDS](https://public.simplyblk.xyz/1.10.rar) |
 
 
 
