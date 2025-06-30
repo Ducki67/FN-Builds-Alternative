@@ -1,6 +1,13 @@
 # FN-Builds-Alternative
 An archive that has all downloadable seasons and builds with alternative links and sources.  Note: I do NOT host any files in this repo!!
 
+**Sources:**
+- https://builds.rebootfn.org/versions.json
+
+- https://ai-repertoire.com/builds/
+
+- https://github.com/n6617x/Fortnitebuilds
+
 **NOTE:** Please Always let me know in **Issues** If any build link don't work for you and i will set it to "Down" if its down!!
 
 
