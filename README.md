@@ -44,11 +44,18 @@ An archive that has all downloadable seasons and builds with alternative links a
 | 1.10.0 (Release-Cert-CL-3790078) | [Rebootfn.org](https://builds.rebootfn.org/1.10.rar) | N/A | [FNBUILDS](https://public.simplyblk.xyz/1.10.rar) |
 
 
-
-
-
-
-
+# Season 2
+| Build | Download 1 | Download 2 | Downlaod 3 |
+|-------|------------|------------|------------|
+| 1.11-CL-3807424 | [FNBUILDS](https://public.simplyblk.xyz/1.11.zip) | [GalaxiaFN](https://galaxiafn.co.uk/1.11.zip) | [Rebootfn.org](https://builds.rebootfn.org/1.11.zip)
+| 2.1.0-CL-3825894 | [FNBUILDS](https://public.simplyblk.xyz/2.1.0.zip) | N/A | [Rebootfn.org](https://builds.rebootfn.org/2.1.0.zip)
+| 2.2.0-CL-3841827 | [FNBUILDS](https://public.simplyblk.xyz/2.2.0.rar) | N/A | [Rebootfn.org](https://builds.rebootfn.org/2.2.0.rar)
+| 2.3.0-CL-3847564 | [Rebootfn.org](https://builds.rebootfn.org/2.3.rar) | N/A | [FNBUILDS](https://public.simplyblk.xyz/2.3.rar)
+| | |
+| | |
+| | |
+| | |
+| | |
 
 
 
@@ -72,3 +79,4 @@ An archive that has all downloadable seasons and builds with alternative links a
 
 
 # 🚧 Currently being made / Under some construction 🚧
+***Season2 is half done***
