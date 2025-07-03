@@ -3,6 +3,9 @@
 > [!WARNING]  
 > Most of the links in this repository are bound to die. I try to update this github when I can, but if they are dead please be patient. I am **not** a build provider.
 
+>[!NOTE]
+> ### For other archives or methodts to download from use: ***https://github.com/Ducki67/Fortnite-Build-Download-methods*** and this repo does ___Not___ host any files!! You can olny find other archives for builds.
+
 # Downloads
 
 ## Online Testing
